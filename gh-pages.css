@@ -1,0 +1,170 @@
+
+body{
+	background-image: url('taylor swift.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.toolbar{
+	width: 1250px;
+	height: 80px;
+/*	background-color: purple;*/
+}
+
+.toolbar-title{
+	font-size: 28px;
+	color: gold;
+	width: 260px;
+	height: 50px;
+	display: inline-block;
+	margin-left: 10%;
+	margin-top: 2%;
+	border: 3px solid gold;
+	border-radius: 10px;
+/*	background-color: red;*/
+}
+
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	color: silver;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid silver;
+	display: inline-block;
+	float: right;
+    margin-right: 20px;
+    margin-top: 25px;
+}
+
+p{
+	margin: 0;
+    margin-left: 15px;
+	line-height: 50px;
+  /*  background-color: blue;*/
+    display: inline-block;
+}
+
+.toolbar .toolbar-title-1 p{
+	margin: 0;
+    margin-left: -5px;
+	line-height: 50px;
+	color: gold;
+ /*   background-color: blue;*/
+    display: inline-block;
+}
+
+.arrow-down-1 {
+	width: 0; 
+	height: 0; 
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid silver;
+	display: inline-block;
+	float: right;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+.toolbar-title-1{
+	font-size: 28px;
+	width: 210px;
+	height: 50px;
+	display: inline-block;
+	margin-left: 10%;
+	margin-top: 2%;
+	border: 3px solid gold;
+	border-radius: 10px;
+	text-align: center;
+/*	background-color: blue;*/
+}
+
+.search{
+	display: inline;
+	margin-right: 10%;
+	float: right;
+	margin-top: -50px;
+/*	background-color: green;*/
+}
+
+.search-box_1{
+	width: 200px;
+	height: 30px;
+	display: inline;
+	border: 3px solid black;
+	border-radius: 10px;
+/*	background-color: orange;*/
+}
+
+.search-button{
+	width: 10px;
+	display: inline;
+	margin-left: 2%;
+	border-radius: 20px;
+/*	background-color: pink;*/
+}
+
+.side{
+	text-align: center;
+	font-size: 38px;
+	font-weight: bold;
+	width: 430px;
+	height: 100px;
+	margin-top: 2%;
+	margin-left: 32%;
+	border: 3px solid white;
+	border-radius: 10px;
+	color: white;
+/*	background-color: orange;*/
+}
+
+p2{
+	font-size: 40px;
+	text-align: center;
+	margin: 0;
+    margin-left: 5px;
+	line-height: 100px;
+  /*  background-color: blue;*/
+    display: inline-block;
+}
+
+p1{
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+    margin-left: 5px;
+	line-height: 30px;
+  /*  background-color: blue;*/
+    display: inline-block;
+}
+
+.online-store{
+	position: relative;
+	width: 400px;
+	height: 300px;
+	color: gold;
+	border: 3px solid gold;
+	border-radius: 10px;
+	float: right;
+	display: inline-block;
+	margin-top: 5%;
+	margin-right: 34%;
+	text-align: center;
+	background-image: url('taylor swift.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p3{
+	font-size: 40px;
+	color: gold;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+	line-height: 270px;
+  /*  background-color: blue;*/
+    display: inline-block;
+}
+
